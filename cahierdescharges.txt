@@ -1,0 +1,20 @@
+CAHIER DES CHARGES 
+
+Mme Farniente dirigeante de l'agence de voyage "C'est beau de rêver" située en Grèce
+souhaite remodeler son vieux site internet afin de le moderniser.
+Le site a pour objectif de présenter les locations tout en permettant aux visiteurs d'effectuer leurs réservations 
+en ligne, de partager et lire les avis.
+Notre équipe graphique a travaillé sur une maquette photoshop téléchargeable sur le lien suivant:
+
+https://drive.google.com/file/d/1sXJBz8yJW3wovG-E5754vmxgrnIFW7NI/view?usp=sharing
+
+
+Le design du nouveau site devra être conforme à cette maquette.
+D'un point de vue technique, les codes html et css devront être valides sur le site w3c.
+De plus, le code devra être optimisé pour le référencement et pour le partage sur les réseaux sociaux.
+De cette façon nous souhaitons cibler le plus large public possible.
+
+
+La dirigeante
+
+Mme Farniente
